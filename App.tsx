@@ -13,7 +13,7 @@ import { Container9 } from "./src/screen/Container9";
 export default function App() {
   return (
     <SafeAreaView style={{ flex: 1 }}>
-      {/* <ArreglosScreen /> */}
+      <ArreglosScreen />
       {/* <Container1 /> */}
       {/* <Container2 /> */}
       {/* <Container3 /> */}
@@ -22,7 +22,7 @@ export default function App() {
       {/* <Container6 /> */}
       {/* <Container7 /> */}
       {/* <Container8 /> */}
-      <Container9 />
+      {/* <Container9 /> */}
     </SafeAreaView>
   );
 }
